@@ -1,10 +1,13 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import Header from "./Components/Header";
+import RestaurantsData from "./Components/Restaurants-data/RestaurantData";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1> Food Tyme </h1>
+      <Header />
+      <RestaurantsData />
     </div>
   );
 }
