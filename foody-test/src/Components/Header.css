@@ -1,0 +1,10 @@
+.header-main {
+  height: 60px;
+  width: 100vw;
+  background-color: #43E895;
+  position: fixed;
+  text-align: center;
+  font-family: "Avenir Next";
+  font-size: 10px;
+  color: #FFFFFF;
+}
