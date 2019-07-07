@@ -1,10 +1,26 @@
 .header-main {
   height: 60px;
   width: 100vw;
-  background-color: #43E895;
+  background-color: #43e895;
   position: fixed;
   text-align: center;
   font-family: "Avenir Next";
+  font-weight: demi-bold;
   font-size: 10px;
-  color: #FFFFFF;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+.map-icon {
+  height: 35px;
+  width: 35px;
+}
+
+.arrow-icon {
+  height: 25px;
+  width: 15px;
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import preload from "../../data";
-import Header from "../Header";
 import { connect } from "react-redux";
 import RestaurantCard from "../Restaurants-card/RestaurantCard";
 
